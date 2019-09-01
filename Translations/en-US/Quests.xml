@@ -1473,6 +1473,13 @@ Yuugumo-Class Destroyers.</TR-Detail>
     <TR-Detail>Secure 4 victories in Exercises within the same day using at least four of Asashio-class and up to 2 additional ships.</TR-Detail>
   </Quest>
   <Quest>
+    <ID>330</ID>
+    <JP-Name>空母機動部隊、演習始め！</JP-Name>
+    <TR-Name>C29: Carrier Task Force, Commence Exercises!</TR-Name>
+    <JP-Detail>空母を含む有力な哨戒艦隊を編成、製油所地帯沿岸、南西諸島防衛戦、南西諸島近海、バシー海峡及び東部オリョール海を戦闘哨戒、各海域の敵艦隊を捕捉撃滅、各海域兵站線の安全を確保せよ！</JP-Detail>
+    <TR-Detail>Use a fleet with a CVL/CV/CVB as flagship, 1 other CVL/CV/CVB, 2 DD, and up to 2 additional ships to obtain a B-rank (or higher) in Exercises 4 times within the same day.</TR-Detail>
+  </Quest>
+  <Quest>
     <ID>401</ID>
     <JP-Name>はじめての「遠征」！</JP-Name>
     <TR-Name>D1: First Expedition</TR-Name>
