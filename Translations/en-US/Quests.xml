@@ -1,5 +1,5 @@
 ﻿<?xml version="1.0" encoding="utf-8"?>
-<Quests Version="1.1.95">
+<Quests Version="1.1.96">
   <Quest>
     <ID>101</ID>
     <JP-Name>はじめての「編成」！</JP-Name>
@@ -1186,6 +1186,13 @@ score an A rank victory at World 1-5 boss.</TR-Detail>
     <TR-Name>B47: Sortie the 1st Torpedo Squadron on Operation Ke Again</TR-Name>
     <JP-Detail>北方再突入準備の新編「一水戦」で北方キス島に再突入を敢行、同撤収作戦を完遂せよ！</JP-Detail>
     <TR-Detail>Sortie Abukuma Kai2 (阿武隈改二) as the flagship, Hibiki, Yuugumo (夕雲), Naganami (長波), Akigumo (秋雲) and Shimakaze (島風) to World 3-2 and score an S rank victory at the boss node.</TR-Detail>
+  </Quest>
+  <Quest>
+    <ID>280</ID>
+    <JP-Name>兵站線確保！海上警備を強化実施せよ！</JP-Name>
+    <TR-Name>Bm8: Secure the Supply Lines! Strengthen the Marine Guards!</TR-Name>
+    <JP-Detail>海上警備任務：軽空母または軽巡級1隻、駆逐艦または海防艦を計3隻以上配備した海上護衛艦隊で、南西諸島沖警備、海上護衛作戦、南1号作戦、南西諸島哨戒を実施、各作戦海域の敵を撃滅せよ！</JP-Detail>
+    <TR-Detail>Sortie a fleet with a CL/CVL, 3 DD/DE, and up to 2 additional ships to Worlds 1-2, 1-3, 1-4 and 2-1. Obtain a S-rank at each boss node.</TR-Detail>
   </Quest>
   <Quest>
     <ID>285</ID>
@@ -3090,6 +3097,13 @@ either Takanami Kai, Okinami Kai, or Asashimo Kai, and up to 4 additional ships.
     <TR-Detail>Sortie Ise Kai Ni as flagship, 2 DD, and up to 3 additional ships to [W6-5]. S-Rank the boss node 3 times.</TR-Detail>
   </Quest>
   <Quest>
+    <ID>888</ID>
+    <JP-Name>新編成「三川艦隊」、鉄底海峡に突入せよ！</JP-Name>
+    <TR-Name>Bq7: New Mikawa Fleet, Rush into the Iron Bottom Ocean Area!</TR-Name>
+    <JP-Detail>鉄底海峡戦果拡張：「鳥海」「青葉」「衣笠」「加古」「古鷹」「天龍」「夕張」の中から4隻を含む突入艦隊を編成。南方海域前面及びサブ島沖海域、サーモン海域に突入、敵艦隊を撃滅せよ！</JP-Detail>
+    <TR-Detail>Sortie a fleet with 4 of Choukai, Aoba, Kinugasa, Kako, Furutaka, Tenryuu, and Yuubari and 2 additional ships to Worlds 5-1, 5-3, and 5-4. Obtain a S-rank at each boss node.</TR-Detail>
+  </Quest>
+  <Quest>
     <ID>889</ID>
     <JP-Name>精鋭「二七駆」第一小隊、出撃せよ！</JP-Name>
     <TR-Name>B121: First platoon of the Elite 27th Destroyer Division, Sortie!</TR-Name>
@@ -3102,6 +3116,13 @@ either Takanami Kai, Okinami Kai, or Asashimo Kai, and up to 4 additional ships.
     <TR-Name>B122: Elite 4th Cruiser Division 2nd Platoon, Set Sail!</TR-Name>
     <JP-Detail>「摩耶改二」及び「鳥海改二」から成る精鋭「第四戦隊」第二小隊を含む有力な艦隊を編成、南西&lt;br&gt;諸島防衛線、東部オリョール海、アルフォンシーノ方面、カレー洋リランカ島沖に出撃、敵を撃滅せよ！</JP-Detail>
     <TR-Detail>Sortie Choukai Kai Ni and Maya Kai Ni and up to 4 additional ships to [W1-4], [W2-3], [W3-3], and [W4-5]. S-Rank the boss nodes.</TR-Detail>
+  </Quest>
+  <Quest>
+    <ID>893</ID>
+    <JP-Name>	泊地周辺海域の安全確保を徹底せよ！</JP-Name>
+    <TR-Name>Bq8: Ranking Expansion Quest: Secure the Safety of the Anchorage Area!</TR-Name>
+    <JP-Detail>泊地近海警戒戦果拡張：有力な泊地哨戒部隊を編成、鎮守府近海、ブルネイ泊地沖、タウイタウイ泊地沖に反復出撃！各周辺海域に出没する敵潜を制圧、さらに泊地周辺の脅威となる敵戦力を捕捉撃滅せよ！</JP-Detail>
+    <TR-Detail>Sortie a fleet to Worlds 1-5, 7-1, and 7-2. S-rank the boss node of 1-5 and 7-1 three times. S-rank both boss nodes of 7-2 three times.</TR-Detail>
   </Quest>
   <Quest>
     <ID>894</ID>
