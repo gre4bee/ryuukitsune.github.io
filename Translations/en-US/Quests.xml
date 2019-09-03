@@ -1191,7 +1191,7 @@ score an A rank victory at World 1-5 boss.</TR-Detail>
     <ID>280</ID>
     <JP-Name>兵站線確保！海上警備を強化実施せよ！</JP-Name>
     <TR-Name>Bm8: Secure the Supply Lines! Strengthen the Marine Guards!</TR-Name>
-    <JP-Detail>海上警備任務：軽空母または軽巡級1隻、駆逐艦または海防艦を計3隻以上配備した海上護衛艦隊で、南西諸島沖警備、海上護衛作戦、南1号作戦、南西諸島哨戒を実施、各作戦海域の敵を撃滅せよ！</JP-Detail>
+    <JP-Detail>海上警備任務：軽空母または軽巡級1隻、駆逐艦または海防艦を計3隻以上配備した海上護衛艦隊で、&lt;br&gt;南西諸島沖警備、海上護衛作戦、南1号作戦、南西諸島哨戒を実施、各作戦海域の敵を撃滅せよ！</JP-Detail>
     <TR-Detail>Sortie a fleet with a CL/CVL, 3 DD/DE, and up to 2 additional ships to Worlds 1-2, 1-3, 1-4 and 2-1. Obtain a S-rank at each boss node.</TR-Detail>
   </Quest>
   <Quest>
@@ -3100,7 +3100,7 @@ either Takanami Kai, Okinami Kai, or Asashimo Kai, and up to 4 additional ships.
     <ID>888</ID>
     <JP-Name>新編成「三川艦隊」、鉄底海峡に突入せよ！</JP-Name>
     <TR-Name>Bq7: New Mikawa Fleet, Rush into the Iron Bottom Ocean Area!</TR-Name>
-    <JP-Detail>鉄底海峡戦果拡張：「鳥海」「青葉」「衣笠」「加古」「古鷹」「天龍」「夕張」の中から4隻を含む突入艦隊を編成。南方海域前面及びサブ島沖海域、サーモン海域に突入、敵艦隊を撃滅せよ！</JP-Detail>
+    <JP-Detail>鉄底海峡戦果拡張：「鳥海」「青葉」「衣笠」「加古」「古鷹」「天龍」「夕張」の中から4隻を含む突入&lt;br&gt;艦隊を編成。南方海域前面及びサブ島沖海域、サーモン海域に突入、敵艦隊を撃滅せよ！</JP-Detail>
     <TR-Detail>Sortie a fleet with 4 of Choukai, Aoba, Kinugasa, Kako, Furutaka, Tenryuu, and Yuubari and 2 additional ships to Worlds 5-1, 5-3, and 5-4. Obtain a S-rank at each boss node.</TR-Detail>
   </Quest>
   <Quest>
@@ -3119,9 +3119,9 @@ either Takanami Kai, Okinami Kai, or Asashimo Kai, and up to 4 additional ships.
   </Quest>
   <Quest>
     <ID>893</ID>
-    <JP-Name>	泊地周辺海域の安全確保を徹底せよ！</JP-Name>
+    <JP-Name>泊地周辺海域の安全確保を徹底せよ！</JP-Name>
     <TR-Name>Bq8: Ranking Expansion Quest: Secure the Safety of the Anchorage Area!</TR-Name>
-    <JP-Detail>泊地近海警戒戦果拡張：有力な泊地哨戒部隊を編成、鎮守府近海、ブルネイ泊地沖、タウイタウイ泊地沖に反復出撃！各周辺海域に出没する敵潜を制圧、さらに泊地周辺の脅威となる敵戦力を捕捉撃滅せよ！</JP-Detail>
+    <JP-Detail>泊地近海警戒戦果拡張：有力な泊地哨戒部隊を編成、鎮守府近海、ブルネイ泊地沖、タウイタウイ泊地沖&lt;br&gt;に反復出撃！各周辺海域に出没する敵潜を制圧、さらに泊地周辺の脅威となる敵戦力を捕捉撃滅せよ！</JP-Detail>
     <TR-Detail>Sortie a fleet to Worlds 1-5, 7-1, and 7-2. S-rank the boss node of 1-5 and 7-1 three times. S-rank both boss nodes of 7-2 three times.</TR-Detail>
   </Quest>
   <Quest>
