@@ -1195,6 +1195,13 @@ score an A rank victory at World 1-5 boss.</TR-Detail>
     <TR-Detail>Sortie a fleet with a CL/CVL, 3 DD/DE, and up to 2 additional ships to Worlds 1-2, 1-3, 1-4 and 2-1. Obtain a S-rank at each boss node.</TR-Detail>
   </Quest>
   <Quest>
+    <ID>284</ID>
+    <JP-Name>南西諸島方面「海上警備行動」発令！</JP-Name>
+    <TR-Name>Bq11: "Surface Security Actions" around the Nansei Archipelago Annoucement</TR-Name>
+    <JP-Detail>海上警備任務：軽空母または軽巡級1隻、駆逐艦または海防艦を計3隻以上配備した海上護衛艦隊で、&lt;br&gt;南1号作戦、南西諸島哨戒、柳作戦、オリョール哨戒を実施、各作戦海域に出没する敵を撃滅せよ！</JP-Detail>
+    <TR-Detail>Sortie a fleet with 1 CVL/CL, 3 or more DD/DE and up to 2 additional ships to Worlds 1-4, 2-1, 2-2, and 2-3. Obtain a S-rank at each boss node. Reward 80 ranking points.</TR-Detail>
+  </Quest>
+  <Quest>
     <ID>285</ID>
     <JP-Name>「空母機動部隊」北方海域に進出せよ！</JP-Name>
     <TR-Name>B49: Sortie an Aircraft Carrier Task Force to the Aleutian Islands</TR-Name>
