@@ -3013,10 +3013,10 @@ Score two S-rank victories against [W3-5] Boss.</TR-Detail>
   </Quest>
   <Quest>
     <ID>872</ID>
-    <JP-Name>「捷一号作戦」兵站補給線を確保せよ！</JP-Name>
-    <TR-Name>Le1B1: Secure the Supply Lines for Operation Sho 1!</TR-Name>
-    <JP-Detail>捷号作戦後方任務：有力な艦隊を編成し、作戦第二海域、台湾沖/ルソン島沖に展開、同海域付近で&lt;br&gt;我が後方兵站線攻撃を図る敵艦隊を捕捉、これを複数回撃破、同制海権を確保せよ。</JP-Detail>
-    <TR-Detail>Score two A-rank victory against [W40-2] Boss.</TR-Detail>
+    <JP-Name>戦果拡張任務！「Z作戦」後段作戦</JP-Name>
+    <TR-Name>Bq10: Military Gains Extra Operation: "Operation Z" Latter Operation</TR-Name>
+    <JP-Detail>戦果拡張作戦：我が第一艦隊に精鋭艦艇を集中配備、同精鋭艦隊を以て、南西海域タウイタウイ泊地沖、<br>南方海域サーモン海域北方、中部海域MS諸島沖及びKW環礁沖海域の敵艦隊を捕捉、これを撃滅せよ！</JP-Detail>
+    <TR-Detail>Score an S-rank at the boss node of 5-5, 6-2, 6-5, 7-2-2.</TR-Detail>
   </Quest>
   <Quest>
     <ID>875</ID>
