@@ -1,5 +1,5 @@
 ﻿<?xml version="1.0" encoding="utf-8"?>
-<Quests Version="1.1.99">
+<Quests Version="1.1.100">
   <Quest>
     <ID>101</ID>
     <JP-Name>はじめての「編成」！</JP-Name>
@@ -1490,8 +1490,15 @@ Yuugumo-Class Destroyers.</TR-Detail>
     <ID>330</ID>
     <JP-Name>空母機動部隊、演習始め！</JP-Name>
     <TR-Name>C29: Carrier Task Force, Commence Exercises!</TR-Name>
-    <JP-Detail>空母を含む有力な哨戒艦隊を編成、製油所地帯沿岸、南西諸島防衛戦、南西諸島近海、バシー海峡及び東部オリョール海を戦闘哨戒、各海域の敵艦隊を捕捉撃滅、各海域兵站線の安全を確保せよ！</JP-Detail>
+    <JP-Detail>空母機動部隊演習任務：航空母艦旗艦他1隻計2隻以上及び駆逐艦2隻を含む空母機動部隊を編成。&lt;br&gt;機動部隊各艦の練度向上を図る！同艦隊で、本日中に演習で4回以上勝利せよ！</JP-Detail>
     <TR-Detail>Use a fleet with a CVL/CV/CVB as flagship, 1 other CVL/CV/CVB, 2 DD, and up to 2 additional ships to obtain a B-rank (or higher) in Exercises 4 times within the same day.</TR-Detail>
+  </Quest>
+  <Quest>
+    <ID>337</ID>
+    <JP-Name>「十八駆」演習！</JP-Name>
+    <TR-Name>C38: DesDiv 18 Exercise!</TR-Name>
+    <JP-Detail>駆逐艦演習任務：第十八駆逐隊「霞」「霰」「陽炎」「不知火」の4隻を含む演習艦隊を編成。&lt;br&gt;同艦隊で本日中に演習で【S判定】勝利3回以上を達成せよ！精鋭十八駆に落ち度など無し！</JP-Detail>
+    <TR-Detail>Use a fleet with Kagerou, Shiranui, Kasumi, Arare, and up to 2 additional ships to obtain a S-rank in Exercises 3 times within the same day.</TR-Detail>
   </Quest>
   <Quest>
     <ID>401</ID>
