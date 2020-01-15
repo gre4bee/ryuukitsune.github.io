@@ -1,5 +1,5 @@
 ﻿<?xml version="1.0" encoding="utf-8"?>
-<Ships Version="1.4.33">
+<Ships Version="1.4.34">
   <Ship>
     <JP-Name>長門</JP-Name>
     <TR-Name>Nagato</TR-Name>
@@ -1223,6 +1223,14 @@
     <JP-Name>神州丸</JP-Name>
     <TR-Name>Shinshuu Maru</TR-Name>
   </Ship>
+  <Ship>
+    <JP-Name>平戸</JP-Name>
+    <TR-Name>Hirato</TR-Name>
+  </Ship>
+  <Ship>
+    <JP-Name>Atlanta</JP-Name>
+    <TR-Name>Atlanta</TR-Name>
+  </Ship>
 
   <!-- Abyssal Ships !-->
 
@@ -1658,5 +1666,9 @@
   <Ship mode="suffix">
 	<JP-Name> バカンスmode</JP-Name>
 	<TR-Name> Vacation Mode</TR-Name>
+  </Ship>
+  <Ship mode="suffix">
+	<JP-Name>特</JP-Name>
+	<TR-Name>Toku</TR-Name>
   </Ship>
 </Ships>

@@ -1,5 +1,5 @@
 ﻿<?xml version="1.0" encoding="utf-8"?>
-<Quests Version="1.1.100">
+<Quests Version="1.1.101">
   <Quest>
     <ID>101</ID>
     <JP-Name>はじめての「編成」！</JP-Name>
@@ -2410,6 +2410,15 @@ Equip an unlocked ★max 12.7cm Twin Gun Model A Kai 2 in the first slot of your
 secretary ship. And then scrap four 10cm Twin High-angle Gun and one Type 94 AAFD.</TR-Detail>
   </Quest>
   <Quest>
+    <ID>686</ID>
+    <JP-Name>戦時改修A型高角砲の量産</JP-Name>
+    <TR-Name>F77: Mass Wartime Production of the Type A Dual-Purpose Gun</TR-Name>
+    <JP-Detail>旗艦特型駆逐艦の第一スロに「12.7cm連装砲A型改二」改修maxを装備、 「10cm連装高角砲」x4&lt;br&gt; 「94式高射装置」x1を廃棄、開発資材x30、鋼材900、新型砲熕兵装資材x1を再び準備せよ！</JP-Detail>
+    <TR-Detail>Prepare 900 Steel, 30 Development material, and 1 New Model Gun Mount Improvement Material in your inventory.
+    Have a Fubuki-class secretary ship with a ★max 12.7cm Twin Gun Mount Model A Kai 2 equipped in her first slot. 
+    Scrap 4 10cm Twin High-angle Gun Mount and 1 Type 94 Anti-Aircraft Fire Director.</TR-Detail>
+  </Quest>
+  <Quest>
     <ID>688</ID>
     <JP-Name>航空戦力の強化</JP-Name>
     <TR-Name>F79: Aerial Force Enhancement</TR-Name>
@@ -2796,10 +2805,10 @@ Score two A-rank victories against World 5-5 Boss.</TR-Detail>
   </Quest>
   <Quest>
     <ID>845</ID>
-    <JP-Name>敵大規模泊地の後方兵站線を分断せよ！</JP-Name>
-    <TR-Name>Break down the rear logistic line of enemy large scale anchorage!</TR-Name>
-    <JP-Detail>敵の大規模泊地の後方兵站線を分断する！敵泊地の北東にある敵離島拠点を攻撃し、同拠点を無力化、&lt;br&gt;補強兵站線を破壊することで、敵大規模泊地の防衛力低下を図れ！</JP-Detail>
-    <TR-Detail>Score two A-rank victories against Isolated Island Princess node (E-3-J).</TR-Detail>
+    <JP-Name>発令！「西方海域作戦」</JP-Name>
+    <TR-Name>Bq12: Official Announcement! Western Sea Operation!</TR-Name>
+    <JP-Detail>大規模出撃任務：「西方海域作戦」が発令された！有力な艦隊を編成し、西方海域全海域に出撃、&lt;br&gt;同海域に展開する敵戦力を完全撃破、これを殲滅せよ！　艦隊、西へ！</JP-Detail>
+    <TR-Detail>Sortie a fleet to Worlds 4-1, 4-2, 4-3, 4-4, and 4-5. Score a S-rank at each boss node.</TR-Detail>
   </Quest>
   <Quest>
     <ID>846</ID>
