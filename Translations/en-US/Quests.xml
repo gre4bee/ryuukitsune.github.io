@@ -1,5 +1,5 @@
 ﻿<?xml version="1.0" encoding="utf-8"?>
-<Quests Version="1.1.101">
+<Quests Version="1.1.102">
   <Quest>
     <ID>101</ID>
     <JP-Name>はじめての「編成」！</JP-Name>
@@ -1485,6 +1485,13 @@ Yuugumo-Class Destroyers.</TR-Detail>
     <TR-Name>C25: Asashio-class, Assemble! Commence Intensive Training!</TR-Name>
     <JP-Detail>朝潮型演習任務：朝潮型駆逐艦4隻による駆逐隊を含む艦隊を編成。&lt;br&gt;同艦隊で本日中に演習にて4回以上勝利せよ！朝潮型駆逐艦、前へ！</JP-Detail>
     <TR-Detail>Secure 4 victories in Exercises within the same day using at least four of Asashio-class and up to 2 additional ships.</TR-Detail>
+  </Quest>
+  <Quest>
+    <ID>329</ID>
+    <JP-Name>【節分任務】節分演習！</JP-Name>
+    <TR-Name>SB56: Setsubun Mission: "Setsubun Exercises!"</TR-Name>
+    <JP-Detail>節分任務：駆逐艦または海防艦2隻を含む節分艦隊を編成、同艦隊を以て、節分演習を実施する！&lt;br&gt;令和二年節分演習艦隊で、本日中に演習において【完全勝利】を3回以上達成せよ！</JP-Detail>
+    <TR-Detail>Use a fleet with at least 2 Coastal Defense Ships/Destroyers to obtain a S-rank in Exercises 3 times within the same day.</TR-Detail>
   </Quest>
   <Quest>
     <ID>330</ID>
