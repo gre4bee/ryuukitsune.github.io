@@ -1,5 +1,5 @@
 ﻿<?xml version="1.0" encoding="utf-8"?>
-<Quests Version="1.1.106">
+<Quests Version="1.1.107">
   <Quest>
     <ID>101</ID>
     <JP-Name>はじめての「編成」！</JP-Name>
@@ -2507,8 +2507,8 @@ And then scrap 4 fighters, 4 dive bombers, and 4 torpedo bombers.</TR-Detail>
   </Quest>
   <Quest>
     <ID>691</ID>
-    <JP-Name>F82: 提督室のリフォーム</JP-Name>
-    <TR-Name>Renovation of the Admiral's Room</TR-Name>
+    <JP-Name>提督室のリフォーム</JP-Name>
+    <TR-Name>F82: Renovation of the Admiral's Room</TR-Name>
     <JP-Detail>提督室のリフォームを実施する！まずは装備の整理から！「中口径主砲」系装備x4、「副砲」系装備x4、&lt;br&gt;「機銃」系装備x4を廃棄、ボーキサイト1,600を準備せよ！　※任務達成後、準備した資源は消費します。</JP-Detail>
     <TR-Detail>Carry out the renovation of the Admiral's Room! &lt;br&gt;First we need to arrange the equipment, proceed to scrap x4 Medium main guns, x4 secondary guns, x4 Machine guns, and prepare 1,600 bauxite.</TR-Detail>
   </Quest>
