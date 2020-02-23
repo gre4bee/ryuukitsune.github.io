@@ -1,5 +1,5 @@
 ﻿<?xml version="1.0" encoding="utf-8"?>
-<Quests Version="1.1.105">
+<Quests Version="1.1.106">
   <Quest>
     <ID>101</ID>
     <JP-Name>はじめての「編成」！</JP-Name>
@@ -894,6 +894,13 @@ in your fleet.</TR-Detail>
     <TR-Detail>Clear E-2.</TR-Detail>
   </Quest>
   <Quest>
+    <ID>235</ID>
+    <JP-Name>近海哨戒を実施せよ！</JP-Name>
+    <TR-Name>B135: Patrol the Coastal Waters!</TR-Name>
+    <JP-Detail>哨戒任務：軽巡級1隻以上、駆逐艦または海防艦計3隻以上による艦隊で、鎮守府海域の南西諸島沖及び&lt;br&gt;製油所地帯沿岸、南西諸島海域の南西諸島近海及びバシー海峡の哨戒を実施、敵を捕捉撃滅せよ！</JP-Detail>
+    <TR-Detail>Sortie a fleet with 1 Light Cruiser, 3 Destroyers/Coastal Defense Ships, and up to 2 additional ships to Worlds 1-2, 1-3, 2-1, and 2-2. &lt;br&gt;Obtain a S-rank at each boss node.</TR-Detail>
+  </Quest>
+  <Quest>
     <ID>239</ID>
     <JP-Name>「第八駆逐隊」出撃せよ！</JP-Name>
     <TR-Name>B20: Sortie the 8th Destroyer Division</TR-Name>
@@ -1501,11 +1508,32 @@ Yuugumo-Class Destroyers.</TR-Detail>
     <TR-Detail>Use a fleet with a CVL/CV/CVB as flagship, 1 other CVL/CV/CVB, 2 DD, and up to 2 additional ships to obtain a B-rank (or higher) in Exercises 4 times within the same day.</TR-Detail>
   </Quest>
   <Quest>
+    <ID>334</ID>
+    <JP-Name>航空戦隊演習(その弐)</JP-Name>
+    <TR-Name>C34: Aviation Squadron Exercises (Part 2)</TR-Name>
+    <JP-Detail>航空戦隊演習任務：航空母艦3隻以上及び駆逐艦2隻以上を含む航空戦隊を編成。大規模演習により、&lt;br&gt;さらなる戦技及び練度向上を図る。同航空戦隊で、本日中に演習を【S判定】勝利6回以上達成せよ！</JP-Detail>
+    <TR-Detail>Use a fleet with 3 Light Aircraft Carriers/Standard Aircraft Carriers/Armored Aircraft Carriers, 2 Destroyers, and up to 1 additional ship. &lt;br&gt;Obtain a S-rank in Exercises 6 times within the same day.</TR-Detail>
+  </Quest>
+  <Quest>
+    <ID>335</ID>
+    <JP-Name>新しき盾</JP-Name>
+    <TR-Name>C35: A New Shield</TR-Name>
+    <JP-Detail>「新しき盾」演習任務：重巡「摩耶」及び重巡「羽黒」を擁する艦隊による演習「新しき盾」を実施する。&lt;br&gt;本「新しき盾」演習において、本日中に【S判定】勝利3回以上達成せよ！</JP-Detail>
+    <TR-Detail>Use a fleet with Maya, Haguro, and up to 4 additional ships. &lt;br&gt;Obtain a S-rank in Exercises 3 times within the same day.</TR-Detail>
+  </Quest>
+  <Quest>
     <ID>337</ID>
     <JP-Name>「十八駆」演習！</JP-Name>
     <TR-Name>C38: DesDiv 18 Exercise!</TR-Name>
     <JP-Detail>駆逐艦演習任務：第十八駆逐隊「霞」「霰」「陽炎」「不知火」の4隻を含む演習艦隊を編成。&lt;br&gt;同艦隊で本日中に演習で【S判定】勝利3回以上を達成せよ！精鋭十八駆に落ち度など無し！</JP-Detail>
     <TR-Detail>Use a fleet with Kagerou, Shiranui, Kasumi, Arare, and up to 2 additional ships to obtain a S-rank in Exercises 3 times within the same day.</TR-Detail>
+  </Quest>
+  <Quest>
+    <ID>338</ID>
+    <JP-Name>睦月型集合！演習始め！</JP-Name>
+    <TR-Name>C39: Mutsuki-class, Assemble! Commence Exercises!</TR-Name>
+    <JP-Detail>睦月型演習任務：睦月型駆逐艦4隻による駆逐隊を含む演習艦隊を編成。&lt;br&gt;同艦隊で本日中に演習にて4回以上勝利せよ！睦月型、がんばるにゃしぃ！</JP-Detail>
+    <TR-Detail>Use a fleet with 4 Mutsuki-class ships and up to 2 additional ships. &lt;br&gt;Obtain a B-rank (or higher) in Exercises (PvP) 4 times within the same day.</TR-Detail>
   </Quest>
   <Quest>
     <ID>339</ID>
@@ -1716,6 +1744,13 @@ Yuugumo-Class Destroyers.</TR-Detail>
     <TR-Name>D28: Kaiboukan, Advance!</TR-Name>
     <JP-Detail>海上護衛任務：遠征任務「兵站強化任務」「海峡警備行動」「海上護衛任務」「タンカー護衛任務」&lt;br&gt;を海防艦、駆逐艦などを主軸とした護衛艦艇で実施せよ！</JP-Detail>
     <TR-Detail>Complete Expeditions 5, 9, A1, and A2.</TR-Detail>
+  </Quest>
+  <Quest>
+    <ID>432</ID>
+    <JP-Name>警備及び哨戒偵察を強化せよ！</JP-Name>
+    <TR-Name>D30: Reinforce our Defences as well as Scout Patrols!</TR-Name>
+    <JP-Detail>警備哨戒任務：遠征「海峡警備行動」「強行偵察任務」「南西方面航空偵察作戦」を実施、&lt;br&gt;南方戦線遠征の前段作戦として、内地及び南西諸島方面の警備及び哨戒偵察を実施せよ！</JP-Detail>
+    <TR-Detail>Complete Expeditions 10, A2, and B1 once each.</TR-Detail>
   </Quest>
   <Quest>
     <ID>434</ID>
@@ -1950,6 +1985,13 @@ The Zero Fighter Model 52C (601 Air Group) must not be locked.</TR-Detail>
     <TR-Name>F18d6: Improve Equipment</TR-Name>
     <JP-Detail>「改修工廠」で「装備」の改修強化に努めます。</JP-Detail>
     <TR-Detail>Perform equipment modernisation once.</TR-Detail>
+  </Quest>
+  <Quest>
+    <ID>621</ID>
+    <JP-Name>陸戦用装備の艦載運用研究</JP-Name>
+    <TR-Name>F89: Research of Ship-borne Land Based Equipment</TR-Name>
+    <JP-Detail>第一艦隊旗艦軽巡級の第一装備スロに「7.7mm機銃」装備。「25mm単装機銃」x2、「ドラム缶(輸送&lt;br&gt;用)」x2、「12cm30連装噴進砲」x1を廃棄。弾薬x1,700、開発資材x30、高速建造材x10を準備せよ！</JP-Detail>
+    <TR-Detail>Equip a 7.7mm Machine Gun on the first equipment slot of your light cruiser flagship. &lt;br&gt;Then scrap 2 25mm Single Autocannons, 2 Drum Canisters, 1 12cm 30-tube Rocket Launcher, prepare 1,700 ammo, 30 development materials and 10 Instant Construction</TR-Detail>
   </Quest>
   <Quest>
     <ID>622</ID>
@@ -2464,6 +2506,27 @@ And then scrap 4 fighters, 4 recon seaplane, and 2 carrier-based recon plane.</T
 And then scrap 4 fighters, 4 dive bombers, and 4 torpedo bombers.</TR-Detail>
   </Quest>
   <Quest>
+    <ID>691</ID>
+    <JP-Name>F82: 提督室のリフォーム</JP-Name>
+    <TR-Name>Renovation of the Admiral's Room</TR-Name>
+    <JP-Detail>提督室のリフォームを実施する！まずは装備の整理から！「中口径主砲」系装備x4、「副砲」系装備x4、&lt;br&gt;「機銃」系装備x4を廃棄、ボーキサイト1,600を準備せよ！　※任務達成後、準備した資源は消費します。</JP-Detail>
+    <TR-Detail>Carry out the renovation of the Admiral's Room! &lt;br&gt;First we need to arrange the equipment, proceed to scrap x4 Medium main guns, x4 secondary guns, x4 Machine guns, and prepare 1,600 bauxite.</TR-Detail>
+  </Quest>
+  <Quest>
+    <ID>692</ID>
+    <JP-Name>水上艦艇装備工廠の整備</JP-Name>
+    <TR-Name>F83: Maintenance of the Surface Vessels' Equipment Arsenal</TR-Name>
+    <JP-Detail>水上艦艇装備工廠の整備を実施する！「小口径主砲」系装備x5、「大口径主砲」系装備x5、&lt;br&gt;「水偵」系装備x5を廃棄、鋼材3,000を準備せよ！　※任務達成後、準備した資源は消費します。</JP-Detail>
+    <TR-Detail>Carry out a maintenance of the surface vessels' equipment arsenal! &lt;br&gt;Scrap 5 small-caliber main guns, 5 large-caliber main guns, 5 recon seaplanes, and prepare 3000 steel!</TR-Detail>
+  </Quest>
+  <Quest>
+    <ID>696</ID>
+    <JP-Name>最精鋭「瑞雲」隊の編成</JP-Name>
+    <TR-Name>F87: Organize the most elite Zuiun Unit</TR-Name>
+    <JP-Detail>旗艦「伊勢改二」「日向改二」第一スロに「瑞雲改二(六三四空)」※改修max。「瑞雲」x6「彗星」x3、&lt;br&gt;「試製烈風 後期型」x1廃棄、弾薬2,000、ボーキ8,000、新型航空兵装資材x1、熟練搭乗員x2を準備！</JP-Detail>
+    <TR-Detail>Have Ise Kai Ni or Hyuuga Kai Ni as your flagship and equip a Zuiun Kai Ni (634 Air Group) that is max modified on first slot. &lt;br&gt;Scrap 6 Zuiun, 3 Suisei, 1 Prototype Reppuu Late Model, then prepare 2000 ammo, 8000 bauxite, 1 New Type Aviation Armament Material, 2 Skilled Crew Member</TR-Detail>
+  </Quest>
+  <Quest>
     <ID>701</ID>
     <JP-Name>はじめての「近代化改修」！</JP-Name>
     <TR-Name>G1: First Modernization</TR-Name>
@@ -2726,17 +2789,17 @@ and score an A rank victory against World 4-1 Boss.</TR-Detail>
   </Quest>
   <Quest>
     <ID>831</ID>
-    <JP-Name>秋刀魚漁：きらりーん！秋刀魚漁支援！</JP-Name>
-    <TR-Name>SB01: Pacific saury fishing: It's time to shine! Mackerel fishing support!</TR-Name>
-    <JP-Detail>秋刀魚漁の漁場に展開、遊弋する敵艦隊を撃破して、「秋刀魚」を三尾入手せよ、ですって！&lt;br&gt;近海、北方海域、中部海域のどこかに秋刀魚漁に適した漁場があるみたい！</JP-Detail>
-    <TR-Detail>Have 3 saury fishes in your inventory.</TR-Detail>
+    <JP-Name>春の海上警備行動！艦隊、抜錨せよ！</JP-Name>
+    <TR-Name>SB43: Guarding the Calm Spring Sea! Fleet, Weigh Anchor!</TR-Name>
+    <JP-Detail>春季特別任務：旗艦に軽巡級・軽空母・水上機母艦を配備、駆逐艦・海防艦計4隻以上を含む艦隊を編成、&lt;br&gt;鎮守府正面海域、南西諸島沖、製油所地帯沿岸、南西諸島防衛線の海上警備を実施、敵を発見撃滅せよ！</JP-Detail>
+    <TR-Detail>Sortie a fleet with a CL/CVL/AV as flagship, 4 DD/DE, and up to 1 additional ship to Worlds 1-1, 1-2, 1-3 and 1-4. &lt;br&gt;Obtain a S-rank at each boss node.</TR-Detail>
   </Quest>
   <Quest>
     <ID>832</ID>
-    <JP-Name>秋刀魚漁：もっともーっと、秋刀魚漁！</JP-Name>
-    <TR-Name>SB02: Pacific saury fishing: Fish for more and more mackerels!</TR-Name>
-    <JP-Detail>ちょおっと大変だけど、漁場の安全を確保して「秋刀魚」を八尾確保するんだって！&lt;br&gt;あまり乱獲したり、暫く同じ海域で続けてると獲れにくくなるみたい。海域を変えてみましょ！</JP-Detail>
-    <TR-Detail>Have 8 saury fishes in your inventory.</TR-Detail>
+    <JP-Name>春！「三一駆」旗艦「長波」、出撃せよ！</JP-Name>
+    <TR-Name>SB44: Spring! DesDiv 31 Flagship "Naganami", Sortie!</TR-Name>
+    <JP-Detail>春季特別任務：旗艦に「長波」、三一駆「高波」「沖波」「岸波」「朝霜」から3隻以上を含む第1艦隊で&lt;br&gt;南西諸島近海、バシー海峡の敵を反復撃滅、南方のサーモン海域の敵艦隊と交戦、これを撃破せよ！</JP-Detail>
+    <TR-Detail>Sortie a fleet with Naganami as flagship, 3 of Takanami, Okinami, Kishinami or Asashimo, and up to 2 additonal ships to Worlds 2-1, 2-2 and 5-4. &lt;br&gt;Obtain a S-rank twice at the boss node of 2-1 and 2-2. Obtain an A-rank (or greater) once at the boss node of 5-4.</TR-Detail>
   </Quest>
   <Quest>
     <ID>833</ID>
@@ -2850,7 +2913,7 @@ Score a B-rank victory against World 6-1 Boss.</TR-Detail>
     <ID>848</ID>
     <JP-Name>重装甲巡洋艦、鉄底海峡に突入せよ！</JP-Name>
     <TR-Name>B92:Heavy Armored Cruiser, Rush into the Ironbottom Sound!</TR-Name>
-    <JP-Detail>第一艦隊旗艦に「Zara due」を配備、同艦隊で南方サブ島沖海域へ突入！同方面の敵艦隊群を突破し、鉄底海峡に展開する敵戦力を撃破せよ！</JP-Detail>
+    <JP-Detail>第一艦隊旗艦に「Zara due」を配備、同艦隊で南方サブ島沖海域へ突入！同方面の敵艦隊群を突破し、鉄&lt;br&gt;底海峡に展開する敵戦力を撃破せよ！</JP-Detail>
     <TR-Detail>Sortie Zara Due as Flagship with 5 additional ships.
 Score an A-rank victory against World 5-3 Boss.</TR-Detail>
   </Quest>
@@ -3174,6 +3237,13 @@ either Takanami Kai, Okinami Kai, or Asashimo Kai, and up to 4 additional ships.
     <TR-Name>Bq9: Carrier Combat Patrol in the Supply Lines</TR-Name>
     <JP-Detail>空母を含む有力な哨戒艦隊を編成、製油所地帯沿岸、南西諸島防衛線、南西諸島近海、バシー海峡&lt;br&gt;及び東部オリョール海を戦闘哨戒、各海域の敵艦隊を捕捉撃滅、各海域兵站線の安全を確保せよ！</JP-Detail>
     <TR-Detail>Sortie a carrier and up to 5 additional ships to [W1-3], [W1-4], [W2-1], [W2-2], and [W2-3]. S-Rank the boss nodes.</TR-Detail>
+  </Quest>
+  <Quest>
+    <ID>902</ID>
+    <JP-Name>新編「六水戦」出撃！後で感想、聞かせてね！</JP-Name>
+    <TR-Name>B141: New 6th Torpedo Squadron Sortie! Let me know what you think afterwards!</TR-Name>
+    <JP-Detail>改装軽巡「夕張改二」型旗艦を含む第六水雷戦隊4隻以上を擁する艦隊で、鎮守府近海、鎮守府近海航路、&lt;br&gt;さらに南西諸島バシー海峡、北方キス島沖、南西ブルネイ泊地沖の各作戦を、それぞれ完全成功させよ！</JP-Detail>
+    <TR-Detail>Sortie a fleet with Yuubari Kai Ni/Yuubari Kai Ni Toku/Yuubari Kai Ni D as flagship, 3 of Yayoi, Mutsuki, Kisaragi, Mochizuki, Uzuki, Kikuzuki and up to 2 additional ships to Worlds 1-5, 1-6, 2-2, 3-2, and 7-1. &lt;br&gt;Obtain a S-rank at the boss node of 1-5, 2-2, 3-2, and 7-1 once. Reach the anchor node N of 1-6 once.</TR-Detail>
   </Quest>
   <Quest>
     <ID>904</ID>
