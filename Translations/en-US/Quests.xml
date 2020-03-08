@@ -1,5 +1,5 @@
 ﻿<?xml version="1.0" encoding="utf-8"?>
-<Quests Version="1.2.2">
+<Quests Version="1.2.3">
   <Quest>
     <ID>101</ID>
     <JP-Name>はじめての「編成」！</JP-Name>
@@ -1016,7 +1016,7 @@ in your fleet.</TR-Detail>
     <ID>254</ID>
     <JP-Name>「軽空母」戦隊、出撃せよ！</JP-Name>
     <TR-Name>B29: Sortie a Light Carrier Squadron</TR-Name>
-    <JP-Detail>軽空母1～2隻、軽巡1隻、駆逐艦3～4隻の艦隊でカムラン半島の敵を撃滅せよ！</JP-Detail>
+    <JP-Detail>軽空母1～2隻、軽巡1隻、駆逐艦3～4隻の艦隊で南西諸島近海の敵を撃滅せよ！</JP-Detail>
     <TR-Detail>Sortie a fleet of 1-2 CVL, 1 CL and 3-4 DD to World 2-1 and score an S rank victory against the boss.</TR-Detail>
   </Quest>
   <Quest>
@@ -1515,6 +1515,20 @@ Yuugumo-Class Destroyers.</TR-Detail>
     <TR-Detail>Use a fleet with a CVL/CV/CVB as flagship, 1 other CVL/CV/CVB, 2 DD, and up to 2 additional ships to obtain a B-rank (or higher) in Exercises 4 times within the same day.</TR-Detail>
   </Quest>
   <Quest>
+    <ID>332</ID>
+    <JP-Name>六周年記念演習</JP-Name>
+    <TR-Name>C32: 6th Anniversary Exercise</TR-Name>
+    <JP-Detail>六周年記念演習：軽巡クラス1隻と駆逐艦または海防艦計3隻以上を含む6隻編成の特務艦隊を編成。&lt;br&gt;同艦隊による演習で本日中に【S判定】以上4回勝利せよ！</JP-Detail>
+    <TR-Detail>Use a fleet with 1 Light Cruiser, 3 Destroyers/Coastal Defense Ships, and any 2 other ships to obtain an S-rank in Exercises 4 times within the same day.</TR-Detail>
+  </Quest>
+  <Quest>
+    <ID>333</ID>
+    <JP-Name>航空戦隊演習(その壱)</JP-Name>
+    <TR-Name>C33: Aviation Squadron Exercises (Part 1)</TR-Name>
+    <JP-Detail>航空戦隊演習任務：航空母艦3隻以上及び駆逐艦2隻以上を含む航空戦隊を編成。艦隊戦演習により、&lt;br&gt;戦技及び練度向上を図る。同航空戦隊で、本日中に演習を【S判定】勝利3回以上達成せよ！</JP-Detail>
+    <TR-Detail>Use a fleet with 3 Light Aircraft Carriers/Standard Aircraft Carriers/Armored Aircraft Carriers, 2 Destroyers, and up to 1 additional ship. &lt;br&gt;Obtain a S-rank in Exercises 3 times within the same day.</TR-Detail>
+  </Quest>
+  <Quest>
     <ID>334</ID>
     <JP-Name>航空戦隊演習(その弐)</JP-Name>
     <TR-Name>C34: Aviation Squadron Exercises (Part 2)</TR-Name>
@@ -1548,6 +1562,13 @@ Yuugumo-Class Destroyers.</TR-Detail>
     <TR-Name>C42: "DesDiv 19" Exercises!</TR-Name>
     <JP-Detail>駆逐艦演習任務：第十九駆逐隊「磯波」「浦波」「綾波」「敷波」の4隻を含む演習艦隊を編成。&lt;br&gt;同艦隊で本日中に演習で【S判定】勝利3回以上を達成せよ！精鋭十九駆、じゃ、見ててよね！</JP-Detail>
     <TR-Detail>Use a fleet with Isonami, Uranami, Ayanami, Shikinami, and up to 2 additional ships. &lt;br&gt;Obtain a S-rank in Exercises (PvP) 3 times within the same day.</TR-Detail>
+  </Quest>
+  <Quest>
+    <ID>340</ID>
+    <JP-Name>【桃の節句任務】桃の節句演習！</JP-Name>
+    <TR-Name>20WiC1: Peach Festival Exercises!</TR-Name>
+    <JP-Detail>桃の節句任務：駆逐艦または海防艦計3隻を含む桃の節句艦隊を編成、同艦隊を以て、演習を実施！&lt;br&gt;桃の節句演習艦隊で、本日中に演習において【S判定】勝利を3回以上達成せよ！</JP-Detail>
+    <TR-Detail>Use a fleet with 3 Destroyers and up to 3 additional ships to obtain a S-rank in Exercises 3 times within the same day.</TR-Detail>
   </Quest>
   <Quest>
     <ID>401</ID>
@@ -2588,6 +2609,13 @@ And then scrap 4 fighters, 4 dive bombers, and 4 torpedo bombers.</TR-Detail>
     <TR-Name></TR-Name>
     <JP-Detail>桃の節句任務：鉄鋼303及びボーキサイト303を準備して、任意の駆逐艦の近代化改修を&lt;br&gt;[軽巡洋艦]x3隻同時使用により2回成功させよ！※準備した資源は消費します。</JP-Detail>
     <TR-Detail></TR-Detail>
+  </Quest>
+  <Quest>
+    <ID>713</ID>
+    <JP-Name>【桃の節句任務】菱餅改修：果</JP-Name>
+    <TR-Name>20WiG: (Peach Festival Mission) Hishimochi Renovation: Final</TR-Name>
+    <JP-Detail>桃の節句任務：菱餅17個、開発資材300及び鋼鉄15,000、ボーキサイト15,000を準備、&lt;br&gt;任意の正規空母の近代化改修を[正規空母]x5隻同時使用により2回成功させよ！</JP-Detail>
+    <TR-Detail>Prepare 17 Hishimochi, 300 Development material, 15000 Steel, and 15000 Bauxite in your inventory. &lt;br&gt;Successfully modernize 5 Standard Aircraft Carriers onto a Standard Aircraft Carrier twice.</TR-Detail>
   </Quest>
   <Quest>
     <ID>801</ID>
