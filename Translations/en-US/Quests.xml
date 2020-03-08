@@ -1,5 +1,5 @@
 ﻿<?xml version="1.0" encoding="utf-8"?>
-<Quests Version="1.2.1">
+<Quests Version="1.2.2">
   <Quest>
     <ID>101</ID>
     <JP-Name>はじめての「編成」！</JP-Name>
@@ -1770,7 +1770,7 @@ Yuugumo-Class Destroyers.</TR-Detail>
     <ID>435</ID>
     <JP-Name>【桃の節句任務】桃の節句遠征！</JP-Name>
     <TR-Name></TR-Name>
-    <JP-Detail>桃の節句任務：遠征任務「対潜警戒任務」「強行偵察任務」「包囲陸戦隊撤収作戦」<br>「南西方面航空偵察作戦」「長時間対潜警戒」の各遠征を実施、これを成功させよ！</JP-Detail>
+    <JP-Detail>桃の節句任務：遠征任務「対潜警戒任務」「強行偵察任務」「包囲陸戦隊撤収作戦」&lt;br&gt;「南西方面航空偵察作戦」「長時間対潜警戒」の各遠征を実施、これを成功させよ！</JP-Detail>
     <TR-Detail></TR-Detail>
   </Quest>
   <Quest>
