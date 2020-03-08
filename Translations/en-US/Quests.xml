@@ -1,5 +1,5 @@
 ﻿<?xml version="1.0" encoding="utf-8"?>
-<Quests Version="1.2.4">
+<Quests Version="1.2.5">
   <Quest>
     <ID>101</ID>
     <JP-Name>はじめての「編成」！</JP-Name>
@@ -2266,11 +2266,10 @@ Unlock both equipment. And then, scrap two 12.7cm Twin Gun Mount.</TR-Detail>
   </Quest>
   <Quest>
     <ID>653</ID>
-    <JP-Name>節分特別任務：節分準備！</JP-Name>
-    <TR-Name>Setsubun Special Mission: Preparation for Setsubun!</TR-Name>
-    <JP-Detail>「20.3cm連装砲(無印)」を二つ廃棄、家具コイン5,000と「12cm単装砲」「零式水上偵察機」各二つを準備せよ！　※任務達成後、用意した家具コイン及び必要装備(低改修値のもの優先)は消費します。</JP-Detail>
-    <TR-Detail>Have 5000 furniture coins, two 12cm Single Gun Mount, and two Type 0 Reconnaissance Seaplane in your inventory.
-Unlock both equipment. And then, scrap two 20.3cm Twin Gun Mount.</TR-Detail>
+    <JP-Name>工廠稼働！次期作戦準備！</JP-Name>
+    <TR-Name>F90: Arsenal Work! Preparations for the Next Operation!</TR-Name>
+    <JP-Detail>「14cm単装砲」x6廃棄、家具コイン6,000と「35.6cm連装砲」「九六式艦戦」各三つを&lt;br&gt;準備せよ！　※任務達成後、用意した家具コイン及び必要装備(低改修値のもの優先)は消費します。</JP-Detail>
+    <TR-Detail>Prepare 6000 Furniture Coins, 3 35.6cm Twin Gun Mount, and 3 Type 96 Fighter in your inventory. Scrap 6 14cm Single Gun Mount.</TR-Detail>
   </Quest>
   <Quest>
     <ID>654</ID>
@@ -3298,7 +3297,7 @@ either Takanami Kai, Okinami Kai, or Asashimo Kai, and up to 4 additional ships.
     <ID>903</ID>
     <JP-Name>拡張「六水戦」、最前線へ！</JP-Name>
     <TR-Name>Bq13: Expanded 6th Torpedo Squadron, to the Front Lines!</TR-Name>
-    <JP-Detail>軽巡「夕張改二」型の旗艦に随伴第六水雷戦隊駆逐艦2隻以上または「由良改二」を含む艦隊で、南方海域前面、南方サーモン海域、中部北海域ピーコック島沖、中部KW環礁沖海域に展開、敵戦力を撃滅せよ！</JP-Detail>
+    <JP-Detail>軽巡「夕張改二」型の旗艦に随伴第六水雷戦隊駆逐艦2隻以上または「由良改二」を含む艦隊で、南方海域&lt;br&gt;前面、南方サーモン海域、中部北海域ピーコック島沖、中部KW環礁沖海域に展開、敵戦力を撃滅せよ！</JP-Detail>
     <TR-Detail>Sortie a fleet with Yuubari Kai Ni/Yuubari Kai Ni Toku/Yuubari Kai Ni D as flagship and one of the following two configurations: &lt;br&gt;EITHER 2 of Yayoi, Mutsuki, Kisaragi, Mochizuki, Uzuki, Kikuzuki and up to 3 additional ships, OR Yura Kai Ni &lt;br&gt;and up to 4 additional ships, to Worlds 5-1, 5-4, 6-4, and 6-5. &lt;br&gt;Obtain a S-rank at each boss node.</TR-Detail>
   </Quest>
   <Quest>
