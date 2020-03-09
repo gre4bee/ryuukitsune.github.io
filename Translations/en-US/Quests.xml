@@ -1,5 +1,5 @@
 ﻿<?xml version="1.0" encoding="utf-8"?>
-<Quests Version="1.2.5">
+<Quests Version="1.2.6">
   <Quest>
     <ID>101</ID>
     <JP-Name>はじめての「編成」！</JP-Name>
@@ -2291,7 +2291,7 @@ Unlock the equipment. And then, scrap one Type 0 Reconnaissance Seaplane.</TR-De
     <ID>656</ID>
     <JP-Name>六三一空「晴嵐」隊の編成</JP-Name>
     <TR-Name>F49: Organize the Seiran 631 Air Group</TR-Name>
-    <JP-Detail>秘書艦に「伊401」または「伊14」または「伊13」を配備。「晴嵐」を一番スロットに搭載。「瑞雲(六三一空)」を二番スロットに搭載。「晴嵐(六三一空)」を新編せよ！　※任務達成後瑞雲は消滅します。</JP-Detail>
+    <JP-Detail>秘書艦に「伊401」または「伊14」または「伊13」を配備。「晴嵐」を一番スロットに搭載。「瑞雲(六三&lt;br&gt;一空)」を二番スロットに搭載。「晴嵐(六三一空)」を新編せよ！　※任務達成後瑞雲は消滅します。</JP-Detail>
     <TR-Detail>Equip Prototype Seiran in first slot and Zuiun (631 Air Group) in second slot on either I-401, I-13 or I-14 as secretary.
 Unlock the equipment.</TR-Detail>
   </Quest>
@@ -2307,7 +2307,7 @@ Unlock the equipment. And then, scrap two 14cm Single Gun.</TR-Detail>
     <ID>658</ID>
     <JP-Name>潜水艦武装の強化</JP-Name>
     <TR-Name>F50: Enhance Submarine Armaments</TR-Name>
-    <JP-Detail>「61cm三連装魚雷」を四つ廃棄、開発資材x120と「61cm四連装(酸素)魚雷」「九三式水中聴音機」各三つを準備せよ！　※任務達成後、用意した開発資材及び必要装備(低改修値のもの優先)は消費します。</JP-Detail>
+    <JP-Detail>「61cm三連装魚雷」を四つ廃棄、開発資材x120と「61cm四連装(酸素)魚雷」「九三式水中聴音機」各三&lt;br&gt;つを準備せよ！　※任務達成後、用意した開発資材及び必要装備(低改修値のもの優先)は消費します。</JP-Detail>
     <TR-Detail>Have three 61cm Quadruple (Oxygen) Torpedo, three Type 93 Passive Sonar, and 120 development materials in your inventory.
 Unlock the equipment. And then, scrap four 61cm Triple Torpedo.</TR-Detail>
   </Quest>
@@ -3320,6 +3320,13 @@ either Takanami Kai, Okinami Kai, or Asashimo Kai, and up to 4 additional ships.
     <TR-Name>20WiB1: (Peach Festival Operation) Aim the Protect the seas near the Naval District!</TR-Name>
     <JP-Detail>【桃の節句作戦】駆逐艦または海防艦計3隻を含む艦隊で、鎮守府海域南西諸島沖、製油所地帯沿岸、&lt;br&gt;鎮守府近海、鎮守府近海航路、南西諸島海域南西諸島近海の各海域の安全確保と対潜掃蕩を図れ！</JP-Detail>
     <TR-Detail>Sortie a fleet with 3 Destroyers/Coastal Defense Ships and up to 3 additional ships to Worlds 1-2, 1-3, 1-5, 1-6, and 2-1. &lt;br&gt;Obtain a S-rank at the boss node of 1-2, 1-3, 1-5, and 2-1 once. Reach the anchor node N of 1-6 once.</TR-Detail>
+  </Quest>
+  <Quest>
+    <ID>907</ID>
+    <JP-Name>【桃の節句作戦】侵攻部隊物資集積地強襲！</JP-Name>
+    <TR-Name>20WiB2: (Peach Festival Operation) Invasion Force Assault on Supply Depots!</TR-Name>
+    <JP-Detail>【桃の節句作戦】駆逐艦3隻以上を含む精鋭艦隊で期間限定海域のミンドロ島南部の敵物資集積地を強襲、&lt;br&gt;これに【S勝利】を2回、敵の反撃橋頭堡を粉砕せよ！桃の節句、礼号部隊、出撃！敵物資を燃え尽くせ！</JP-Detail>
+    <TR-Detail>Sortie a fleet with 3 Destroyers and up to 3 additional ships to the Hinamatsuri 2020 Mini-Event map. &lt;br&gt;Obtain a S-rank at node J twice.</TR-Detail>
   </Quest>
   <Quest>
     <ID></ID>
