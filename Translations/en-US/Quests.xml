@@ -1,5 +1,5 @@
 ﻿<?xml version="1.0" encoding="utf-8"?>
-<Quests Version="1.2.7">
+<Quests Version="1.2.8">
   <Quest>
     <ID>101</ID>
     <JP-Name>はじめての「編成」！</JP-Name>
@@ -2610,9 +2610,16 @@ And then scrap 4 fighters, 4 dive bombers, and 4 torpedo bombers.</TR-Detail>
     <TR-Detail>Prepare 303 Steel and 303 Bauxite in your inventory. &lt;br&gt;Successfully modernize 3 Light Cruisers onto a Destroyer twice.</TR-Detail>
   </Quest>
   <Quest>
+    <ID>712</ID>
+    <JP-Name>【桃の節句任務】菱餅改修：週</JP-Name>
+    <TR-Name>20WiG6: (Peach Festival Mission) Hishimochi Renovation: Weekly Repetition</TR-Name>
+    <JP-Detail>桃の節句任務：菱餅6個、開発資材100及び鋼鉄3,000、ボーキサイト3,000を準備、&lt;br&gt;任意の軽空母の近代化改修を[軽空母]x3隻同時使用により2回成功させよ！</JP-Detail>
+    <TR-Detail>Prepare 6 Hishimochi, 100 Development material, 3000 Steel, and 3000 Bauxite in your inventory. &lt;br&gt;Successfully modernize 3 Light Aircraft Carriers onto a Light Aircraft Carrier twice.</TR-Detail>
+  </Quest>
+  <Quest>
     <ID>713</ID>
     <JP-Name>【桃の節句任務】菱餅改修：果</JP-Name>
-    <TR-Name>20WiG: (Peach Festival Mission) Hishimochi Renovation: Final</TR-Name>
+    <TR-Name>20WiG7: (Peach Festival Mission) Hishimochi Renovation: Final</TR-Name>
     <JP-Detail>桃の節句任務：菱餅17個、開発資材300及び鋼鉄15,000、ボーキサイト15,000を準備、&lt;br&gt;任意の正規空母の近代化改修を[正規空母]x5隻同時使用により2回成功させよ！</JP-Detail>
     <TR-Detail>Prepare 17 Hishimochi, 300 Development material, 15000 Steel, and 15000 Bauxite in your inventory. &lt;br&gt;Successfully modernize 5 Standard Aircraft Carriers onto a Standard Aircraft Carrier twice.</TR-Detail>
   </Quest>
