@@ -1,5 +1,5 @@
 ﻿<?xml version="1.0" encoding="utf-8"?>
-<Quests Version="1.2.8">
+<Quests Version="1.2.9">
   <Quest>
     <ID>101</ID>
     <JP-Name>はじめての「編成」！</JP-Name>
@@ -2608,6 +2608,13 @@ And then scrap 4 fighters, 4 dive bombers, and 4 torpedo bombers.</TR-Detail>
     <TR-Name>20WiG1: Destroyers' Peach Festival Modernization!</TR-Name>
     <JP-Detail>桃の節句任務：鉄鋼303及びボーキサイト303を準備して、任意の駆逐艦の近代化改修を&lt;br&gt;[軽巡洋艦]x3隻同時使用により2回成功させよ！※準備した資源は消費します。</JP-Detail>
     <TR-Detail>Prepare 303 Steel and 303 Bauxite in your inventory. &lt;br&gt;Successfully modernize 3 Light Cruisers onto a Destroyer twice.</TR-Detail>
+  </Quest>
+  <Quest>
+    <ID>708</ID>
+    <JP-Name>【桃の節句任務】海防艦桃の節句改修</JP-Name>
+    <TR-Name>20WiG2: Coastal Defender Moderization</TR-Name>
+    <JP-Detail>桃の節句任務：鉄鋼3,030及びボーキサイト3,030を準備して、任意の海防艦の近代化改修を&lt;br&gt;[駆逐艦]x5隻同時使用により2回成功させよ！※準備した資源は消費します。</JP-Detail>
+    <TR-Detail>Prepare 3030 Steel and 3030 Bauxite in your inventory. &lt;br&gt;Successfully modernize 5 Destroyers onto a Coastal Defense Ship twice.</TR-Detail>
   </Quest>
   <Quest>
     <ID>712</ID>
