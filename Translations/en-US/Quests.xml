@@ -1,5 +1,5 @@
 ﻿<?xml version="1.0" encoding="utf-8"?>
-<Quests Version="1.2.9">
+<Quests Version="1.2.10">
   <Quest>
     <ID>101</ID>
     <JP-Name>はじめての「編成」！</JP-Name>
@@ -3348,6 +3348,20 @@ either Takanami Kai, Okinami Kai, or Asashimo Kai, and up to 4 additional ships.
     <TR-Name>20WiB4: (Peach Festival Operation) Mainstay of Mainstays, Heading Out!</TR-Name>
     <JP-Detail>【桃の節句作戦】精鋭夕雲型駆逐艦3隻以上を含む艦隊で、南西諸島海域バシー海峡、東部オリョール海、&lt;br&gt;北方AL海域、タウイタウイ泊地沖深部の敵を撃破、限定海域マニラ揚陸地点を妨害する敵を撃滅せよ！</JP-Detail>
     <TR-Detail>Sortie a fleet with 3 Yuugumo-class Destroyers and up to 3-9 additional ships to Worlds 2-2, 2-3, 3-5, 7-2, and the Hinamatsuri 2020 Mini-Event map.&lt;br&gt;Obtain a S-rank at the boss node of 2-2, 2-3, and 3-5 once. &lt;br&gt;Obtain a S-rank at the second boss node of 7-2 once.&lt;br&gt;Obtain a S-rank at node I of the Hinamatsuri 2020 Mini-Event map once.</TR-Detail>
+  </Quest>
+  <Quest>
+    <ID>910</ID>
+    <JP-Name>【桃の節句作戦】「沖に立つ波」出撃！</JP-Name>
+    <TR-Name>20WiB5: (Peach Festival Operation) Sortie with the offshore waves!</TR-Name>
+    <JP-Detail>【桃の節句作戦】「沖波」を含む夕雲型駆逐艦3隻以上の駆逐隊を含む艦隊で、期間限定海域の&lt;br&gt;マニラ湾に侵入した敵艦隊、ミンドロ島侵攻部隊物資集積地、敵機動部隊を痛撃！ 「沖波」、出撃せよ！</JP-Detail>
+    <TR-Detail>Sortie a fleet with 3 Yuugumo-class Destroyers including Okinami. &lt;br&gt;Obtain A rank at nodes I, J and T of E-1.</TR-Detail>
+  </Quest>
+  <Quest>
+    <ID>911</ID>
+    <JP-Name>再編「第三一駆逐隊」、抜錨せよ！</JP-Name>
+    <TR-Name>B142 : Reorganized "DesDiv 31", Weigh Anchor!</TR-Name>
+    <JP-Detail>夕雲型駆逐艦「長波」「岸波」「朝霜」、そして「沖波改二」からなる再編第三一駆逐隊を含む艦隊を、&lt;br&gt;製油所地帯沿岸、南西諸島防衛線、鎮守府近海、バシー海峡、東部オリョール海に展開、敵を撃破せよ！</JP-Detail>
+    <TR-Detail>Sortie a fleet with Naganami, Kishinami, Asashimo, and Okinami kai ni. &lt;br&gt;Obtain a S rank at the boss nodes of 1-3, 1-4, 1-5, 2-2, 2-3.</TR-Detail>
   </Quest>
   <Quest>
     <ID></ID>
