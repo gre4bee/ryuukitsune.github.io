@@ -1,5 +1,5 @@
 ﻿<?xml version="1.0" encoding="utf-8"?>
-<Quests Version="1.2.12">
+<Quests Version="1.2.13">
   <Quest>
     <ID>101</ID>
     <JP-Name>はじめての「編成」！</JP-Name>
@@ -2566,6 +2566,13 @@ And then scrap 4 fighters, 4 dive bombers, and 4 torpedo bombers.</TR-Detail>
     <TR-Name>F87: Organize the most elite Zuiun Unit</TR-Name>
     <JP-Detail>旗艦「伊勢改二」「日向改二」第一スロに「瑞雲改二(六三四空)」※改修max。「瑞雲」x6「彗星」x3、&lt;br&gt;「試製烈風 後期型」x1廃棄、弾薬2,000、ボーキ8,000、新型航空兵装資材x1、熟練搭乗員x2を準備！</JP-Detail>
     <TR-Detail>Have Ise Kai Ni or Hyuuga Kai Ni as your flagship and equip a Zuiun Kai Ni (634 Air Group) that is max modified on first slot. &lt;br&gt;Scrap 6 Zuiun, 3 Suisei, 1 Prototype Reppuu Late Model, then prepare 2000 ammo, 8000 bauxite, 1 New Type Aviation Armament Material, 2 Skilled Crew Member</TR-Detail>
+  </Quest>
+    <Quest>
+    <ID>697</ID>
+    <JP-Name>【春の期間限定任務】下駄履きメカジキの改修</JP-Name>
+    <TR-Name>2003LQ2: Limited-Time Spring Mission: Swordfish Floatplane's Remodel</TR-Name>
+    <JP-Detail>旗艦「Gotland」第一スロに「Swordfish(水上機型)」改修max、 「瑞雲」x3、「零式水上偵察機」x3、&lt;br&gt;「13号対空電探改」x1廃棄、弾薬x2,500、ボーキ4,000、新型航空兵装資材x1、熟練搭乗員x1を準備！</JP-Detail>
+    <TR-Detail>Have Gotland set as Flagship and place Swordfish (Seaplane Model) MAX★ in her 1st Slot. &lt;br&gt;Prepare 2,500 Ammo, 4,000 Bauxite, 1x New Model Aerial Armament Material, 1x Skilled Crew Member. &lt;br&gt;Scrap 3x Zuiun, 3x Type 0 Reconnaissance Seaplane, and 1x Type 13 Air Radar Kai.</TR-Detail>
   </Quest>
   <Quest>
     <ID>701</ID>
