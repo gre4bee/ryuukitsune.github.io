@@ -1,5 +1,5 @@
 ﻿<?xml version="1.0" encoding="utf-8"?>
-<Ships Version="1.4.36">
+<Ships Version="1.4.35">
   <Ship>
     <JP-Name>長門</JP-Name>
     <TR-Name>Nagato</TR-Name>
@@ -18,7 +18,7 @@
   </Ship>
   <Ship>
     <JP-Name>雪風</JP-Name>
-    <TR-Name>Yikikaze</TR-Name>
+    <TR-Name>Yukikaze</TR-Name>
   </Ship>
   <Ship>
     <JP-Name>赤城</JP-Name>
@@ -42,7 +42,7 @@
   </Ship>
   <Ship>
     <JP-Name>吹雪</JP-Name>
-    <TR-Name>Bucky</TR-Name>
+    <TR-Name>Fubuki</TR-Name>
   </Ship>
   <Ship>
     <JP-Name>白雪</JP-Name>
@@ -66,7 +66,7 @@
   </Ship>
   <Ship>
     <JP-Name>綾波</JP-Name>
-    <TR-Name>Ayaya</TR-Name>
+    <TR-Name>Ayanami</TR-Name>
   </Ship>
   <Ship>
     <JP-Name>敷波</JP-Name>
@@ -78,7 +78,7 @@
   </Ship>
   <Ship>
     <JP-Name>北上</JP-Name>
-    <TR-Name>Kitakami-sama</TR-Name>
+    <TR-Name>Kitakami</TR-Name>
   </Ship>
   <Ship>
     <JP-Name>金剛</JP-Name>
@@ -182,7 +182,7 @@
   </Ship>
   <Ship>
     <JP-Name>川内</JP-Name>
-    <TR-Name>Yasen baka</TR-Name>
+    <TR-Name>Sendai</TR-Name>
   </Ship>
   <Ship>
     <JP-Name>神通</JP-Name>
@@ -190,7 +190,7 @@
   </Ship>
   <Ship>
     <JP-Name>那珂</JP-Name>
-    <TR-Name>Idol no.1</TR-Name>
+    <TR-Name>Naka</TR-Name>
   </Ship>
   <Ship>
     <JP-Name>千歳</JP-Name>
@@ -250,7 +250,7 @@
   </Ship>
   <Ship>
     <JP-Name>摩耶</JP-Name>
-    <TR-Name>Maya-sama</TR-Name>
+    <TR-Name>Maya</TR-Name>
   </Ship>
   <Ship>
     <JP-Name>鳥海</JP-Name>
@@ -278,7 +278,7 @@
   </Ship>
   <Ship>
     <JP-Name>曙</JP-Name>
-    <TR-Name>Bono</TR-Name>
+    <TR-Name>Akebono</TR-Name>
   </Ship>
   <Ship>
     <JP-Name>漣</JP-Name>
@@ -298,7 +298,7 @@
   </Ship>
   <Ship>
     <JP-Name>Верный</JP-Name>
-    <TR-Name>Bep</TR-Name>
+    <TR-Name>Vérnyj</TR-Name>
   </Ship>
   <Ship>
     <JP-Name>雷</JP-Name>
@@ -330,7 +330,7 @@
   </Ship>
   <Ship>
     <JP-Name>時雨</JP-Name>
-    <TR-Name>Shigugu</TR-Name>
+    <TR-Name>Shigure</TR-Name>
   </Ship>
   <Ship>
     <JP-Name>村雨</JP-Name>
@@ -338,7 +338,7 @@
   </Ship>
   <Ship>
     <JP-Name>夕立</JP-Name>
-    <TR-Name>Poi</TR-Name>
+    <TR-Name>Yuudachi</TR-Name>
   </Ship>
   <Ship>
     <JP-Name>五月雨</JP-Name>
@@ -370,7 +370,7 @@
   </Ship>
   <Ship>
     <JP-Name>霞</JP-Name>
-    <TR-Name>Kasumama</TR-Name>
+    <TR-Name>Kasumi</TR-Name>
   </Ship>
   <Ship>
     <JP-Name>陽炎</JP-Name>
@@ -406,7 +406,7 @@
   </Ship>
   <Ship>
     <JP-Name>夕張</JP-Name>
-    <TR-Name>Abukuma2</TR-Name>
+    <TR-Name>Yuubari</TR-Name>
   </Ship>
   <Ship>
     <JP-Name>瑞鳳</JP-Name>
@@ -502,7 +502,7 @@
   </Ship>
   <Ship>
     <JP-Name>まるゆ</JP-Name>
-    <TR-Name>Maruyuyu</TR-Name>
+    <TR-Name>Maruyu</TR-Name>
   </Ship>
   <Ship>
     <JP-Name>弥生</JP-Name>
@@ -761,7 +761,7 @@
   </Ship>
   <Ship>
     <JP-Name>早波</JP-Name>
-    <TR-Name>Hayanom</TR-Name>
+    <TR-Name>Hayanami</TR-Name>
   </Ship>
   <Ship>
     <JP-Name>浜波</JP-Name>
@@ -777,7 +777,7 @@
   </Ship>
   <Ship>
     <JP-Name>朝霜</JP-Name>
-    <TR-Name>Shark</TR-Name>
+    <TR-Name>Asashimo</TR-Name>
   </Ship>
   <Ship>
     <JP-Name>早霜</JP-Name>
@@ -865,7 +865,7 @@
   </Ship>
   <Ship>
     <JP-Name>初月</JP-Name>
-    <TR-Name>BestDuck</TR-Name>
+    <TR-Name>Hatsuzuki</TR-Name>
   </Ship>
   <Ship>
     <JP-Name>新月</JP-Name>
@@ -905,15 +905,15 @@
   </Ship>
   <Ship>
     <JP-Name>Prinz Eugen</JP-Name>
-    <TR-Name>Pudding</TR-Name>
+    <TR-Name>Prinz Eugen</TR-Name>
   </Ship>
   <Ship>
     <JP-Name>U-511</JP-Name>
-    <TR-Name>U-chan</TR-Name>
+    <TR-Name>U-511</TR-Name>
   </Ship>
   <Ship>
     <JP-Name>呂500</JP-Name>
-    <TR-Name>Ro-chan</TR-Name>
+    <TR-Name>Ro-500</TR-Name>
   </Ship>
   <Ship>
     <JP-Name>秋津洲</JP-Name>
@@ -941,7 +941,7 @@
   </Ship>
   <Ship>
 	<JP-Name>Libeccio</JP-Name>
-	<TR-Name>LibeButt</TR-Name>
+	<TR-Name>Libeccio</TR-Name>
   </Ship>
   <Ship>
     <JP-Name>Graf Zeppelin</JP-Name>
@@ -1009,11 +1009,11 @@
   </Ship>
   <Ship>
     <JP-Name>Saratoga</JP-Name>
-    <TR-Name>Sara</TR-Name>
+    <TR-Name>Saratoga</TR-Name>
   </Ship>
   <Ship>
     <JP-Name>Commandant Teste</JP-Name>
-    <TR-Name>Teste</TR-Name>
+    <TR-Name>Commandant Teste</TR-Name>
   </Ship>
   <Ship>
     <JP-Name>伊13</JP-Name>
@@ -1049,7 +1049,7 @@
   </Ship>
   <Ship>
     <JP-Name>神威</JP-Name>
-    <TR-Name>Kimoi</TR-Name>
+    <TR-Name>Kamoi</TR-Name>
   </Ship>
   <Ship>
     <JP-Name>占守</JP-Name>
@@ -1065,7 +1065,7 @@
   </Ship>
   <Ship>
     <JP-Name>択捉</JP-Name>
-    <TR-Name>Erotofu</TR-Name>
+    <TR-Name>Etorofu</TR-Name>
   </Ship>
   <Ship>
     <JP-Name>松輪</JP-Name>
@@ -1137,7 +1137,7 @@
   </Ship>
   <Ship>
     <JP-Name>Intrepid</JP-Name>
-    <TR-Name>Sivileven</TR-Name>
+    <TR-Name>Intrepid</TR-Name>
   </Ship>
   <Ship>
     <JP-Name>福江</JP-Name>
@@ -1161,7 +1161,7 @@
   </Ship>
   <Ship>
     <JP-Name>Fletcher</JP-Name>
-    <TR-Name>Trash</TR-Name>
+    <TR-Name>Fletcher</TR-Name>
   </Ship>
   <Ship>
     <JP-Name>G.Garibaldi</JP-Name>
@@ -1169,7 +1169,7 @@
   </Ship>
   <Ship>
     <JP-Name>Colorado</JP-Name>
-    <TR-Name>Cololado</TR-Name>
+    <TR-Name>Colorado</TR-Name>
   </Ship>
   <Ship>
     <JP-Name>御蔵</JP-Name>
@@ -1185,7 +1185,7 @@
   </Ship>
   <Ship>
     <JP-Name>Nelson</JP-Name>
-    <TR-Name>Bad mechanic#1</TR-Name>
+    <TR-Name>Nelson</TR-Name>
   </Ship>
   <Ship>
     <JP-Name>Gotland</JP-Name>
@@ -1193,7 +1193,7 @@
   </Ship>
   <Ship>
     <JP-Name>Maestrale</JP-Name>
-    <TR-Name>MaeNip</TR-Name>
+    <TR-Name>Maestrale</TR-Name>
   </Ship>
   <Ship>
     <JP-Name>Johnston</JP-Name>
@@ -1201,7 +1201,7 @@
   </Ship>
   <Ship>
     <JP-Name>日進</JP-Name>
-    <TR-Name>Mig</TR-Name>
+    <TR-Name>Nisshin</TR-Name>
   </Ship>
   <Ship>
     <JP-Name>Janus</JP-Name>
@@ -1213,7 +1213,7 @@
   </Ship>
   <Ship>
     <JP-Name>De Ruyter</JP-Name>
-    <TR-Name>De Router</TR-Name>
+    <TR-Name>De Ruyter</TR-Name>
   </Ship>
   <Ship>
     <JP-Name>Perth</JP-Name>
@@ -1229,7 +1229,7 @@
   </Ship>
   <Ship>
     <JP-Name>Atlanta</JP-Name>
-    <TR-Name>Sara's little sister</TR-Name>
+    <TR-Name>Atlanta</TR-Name>
   </Ship>
 
   <!-- Abyssal Ships !-->
