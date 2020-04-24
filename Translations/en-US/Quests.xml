@@ -1,5 +1,5 @@
 ﻿<?xml version="1.0" encoding="utf-8"?>
-<Quests Version="1.2.14">
+<Quests Version="1.2.15">
   <Quest>
     <ID>101</ID>
     <JP-Name>はじめての「編成」！</JP-Name>
@@ -3444,7 +3444,7 @@ either Takanami Kai, Okinami Kai, or Asashimo Kai, and up to 4 additional ships.
     <ID>918</ID>
     <JP-Name>「Gotland」戦隊、進撃せよ！</JP-Name>
     <TR-Name>B146: Gotland Squadron, Advance!</TR-Name>
-    <JP-Detail>「Gotland andra」旗艦、随伴駆逐艦1隻以上を含む艦隊で、南西諸島海域沖ノ島沖に進撃！さらに&lt;br&gt;>中部海域に展開、グアノ環礁沖海域、中部北海域ピーコック島沖、KW環礁沖海域の敵を撃滅せよ！</JP-Detail>
+    <JP-Detail>「Gotland andra」旗艦、随伴駆逐艦1隻以上を含む艦隊で、南西諸島海域沖ノ島沖に進撃！さらに&lt;br&gt;中部海域に展開、グアノ環礁沖海域、中部北海域ピーコック島沖、KW環礁沖海域の敵を撃滅せよ！</JP-Detail>
     <TR-Detail>Sortie a fleet with Gotland Andra as flagship, 1 Destroyer, and up to 4 additional ships to Worlds 2-5, 6-3, 6-4, and 6-5. &lt;br&gt;Obtain a S-rank at each boss node.</TR-Detail>
   </Quest>
   <Quest>
