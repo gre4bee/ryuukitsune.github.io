@@ -1,5 +1,5 @@
 ﻿<?xml version="1.0" encoding="utf-8"?>
-<Quests Version="1.2.16">
+<Quests Version="1.2.17">
   <Quest>
     <ID>101</ID>
     <JP-Name>はじめての「編成」！</JP-Name>
@@ -906,6 +906,13 @@ in your fleet.</TR-Detail>
     <TR-Name>B136: Peerless "DesDiv 24", Sortie!</TR-Name>
     <JP-Detail>二四駆出撃任務：「海風改二」を旗艦とし、「山風」「江風」「涼風」のうち2隻以上を含む艦隊を編成、&lt;br&gt;東部オリョール海、沖ノ島海域、南方海域前面、サブ島沖海域に突入！敵艦隊を捕捉、撃滅せよ！</JP-Detail>
     <TR-Detail>Sortie a fleet with Umikaze Kai Ni as flagship, 2 of Yamakaze, Kawakaze, and Suzukaze, and up to 3 additional ships to Worlds 2-3, 2-4, 5-1, and 5-3. &lt;br&gt;Obtain a S-rank at each boss node.</TR-Detail>
+  </Quest>
+  <Quest>
+    <ID>237</ID>
+    <JP-Name>「羽黒」「神風」、出撃せよ！</JP-Name>
+    <TR-Name>B138: Haguro and Kamikaze, Sortie!</TR-Name>
+    <JP-Detail>第五戦隊任務：「羽黒」「神風」を基幹として、他に重巡級1隻駆逐艦2隻、または駆逐艦4隻の&lt;br&gt;艦隊で南西諸島近海、バシー海峡、東部オリョール海に出撃、敵艦隊と交戦、これを撃滅せよ！</JP-Detail>
+    <TR-Detail>Sortie a fleet with Haguro, Kamikaze, and either 1 additional Heavy Cruiser/Aviation Cruiser and 2 additional Destroyers (for a total of 5 ships) or 4 additional Destroyers. &lt;br&gt;Obtain a S-rank at each boss node of 2-1, 2-2, and 2-3. </TR-Detail>
   </Quest>
   <Quest>
     <ID>239</ID>
