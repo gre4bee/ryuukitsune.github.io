@@ -1,5 +1,5 @@
 ﻿<?xml version="1.0" encoding="utf-8"?>
-<Quests Version="1.2.15">
+<Quests Version="1.2.16">
   <Quest>
     <ID>101</ID>
     <JP-Name>はじめての「編成」！</JP-Name>
@@ -1541,6 +1541,13 @@ Yuugumo-Class Destroyers.</TR-Detail>
     <TR-Name>C35: A New Shield</TR-Name>
     <JP-Detail>「新しき盾」演習任務：重巡「摩耶」及び重巡「羽黒」を擁する艦隊による演習「新しき盾」を実施する。&lt;br&gt;本「新しき盾」演習において、本日中に【S判定】勝利3回以上達成せよ！</JP-Detail>
     <TR-Detail>Use a fleet with Maya, Haguro, and up to 4 additional ships. &lt;br&gt;Obtain a S-rank in Exercises 3 times within the same day.</TR-Detail>
+  </Quest>
+  <Quest>
+    <ID>336</ID>
+    <JP-Name>輸送船団演習</JP-Name>
+    <TR-Name>C37: Transport Fleet Exercise</TR-Name>
+    <JP-Detail>輸送船団演習任務：補給艦または揚陸艦、海防艦を計2隻以上含む輸送船団を編成、&lt;br&gt;同輸送船団及び護衛艦艇による演習で、本日中に【A判定】勝利4回以上達成せよ。</JP-Detail>
+    <TR-Detail>Use a fleet with 2 Amphibious Assault Ships/Fleet Oilers/Coastal Defense Ships and up to 4 additional ships. &lt;br&gt;Obtain an A-rank in Exercises 4 times within the same day.</TR-Detail>
   </Quest>
   <Quest>
     <ID>337</ID>
