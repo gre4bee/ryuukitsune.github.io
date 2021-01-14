@@ -1,5 +1,5 @@
 {
-	"version": "20071525",
+	"version": "20071526",
 	"101": {
 		"code": "A1",
 		"name_jp": "はじめての「編成」！",
@@ -3027,7 +3027,7 @@
 	"841": {
 		"code": "",
 		"name_jp": "【節分任務】令和三年西方海域節分作戦",
-		"name": "SB8: \"Setsubun Mission\" 3nd Year Reiwa Western Waters Setsubun Operation",
+		"name": "SB8: \"Setsubun Mission\" 3rd Year Reiwa Western Waters Setsubun Operation",
 		"desc_jp": "節分任務：旗艦に水上機母艦・航空巡洋艦・重巡のいずれか、さらに旗艦と同艦種の随伴艦を含む艦隊で<br>西方ジャム島沖、カレー洋海域、リランカ島に展開！同方面敵艦隊主力を捕捉、これを撃滅せよ！",
 		"desc": "Sortie a fleet with a Heavy Cruiser/Aviation Cruiser or a Seaplane Tender as flagship, have another ship of the same class as flagship, and up to 4 additional ships to Worlds 4-1, 4-2, and 4-3. Obtain an S-rank at each boss node."
 	},
@@ -3040,10 +3040,10 @@
 	},
 	"843": {
 		"code": "",
-		"name_jp": "【節分拡張任務】令和二年節分作戦、全力出撃！",
-		"name": "SB59: \"Setsubun Extra Mission\" 2nd Year Reiwa Setsubun Operation, Main Force Sortie!",
-		"desc_jp": "節分拡張任務：戦艦または航空母艦を旗艦とする駆逐艦2隻以上を含む艦隊で、節分期間の南方海域<br>サーモン海域及び同北方、さらに中部北海域ピーコック島沖の敵戦力を捕捉撃滅せよ(戦果拡張可能)！",
-		"desc": "Sortie a fleet with a Battleship, Standard Aircraft Carrier, or Armored Aircraft Carrier as flagship, 2 Destroyers, and up to 3 additional ships to Worlds 5-4, 5-5, and 6-4. Obtain an S-rank at each boss node."
+		"name_jp": "【節分拡張任務】令和三年節分作戦、全力出撃！",
+		"name": "SB9: \"Setsubun Extra Mission\" 3rd Year Reiwa Setsubun Operation, Main Force Sortie!",
+		"desc_jp": "節分拡張任務：戦艦または航空母艦を旗艦とする駆逐艦2隻以上を含む艦隊で、節分期間の南方海域珊瑚諸島沖及び<br>サーモン海域北方、さらに中部北海域ピーコック島沖の敵を撃滅せよ（戦果拡張可能）！！",
+		"desc": "Sortie a fleet with a Battleship, Standard Aircraft Carrier, or Armored Aircraft Carrier as flagship, 2 Destroyers, and up to 3 additional ships to Worlds 5-2, 5-5, and 6-4. Obtain an S-rank at each boss node."
 	},
 	"844": {
 		"code": "",
