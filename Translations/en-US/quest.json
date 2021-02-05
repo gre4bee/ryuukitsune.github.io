@@ -1,5 +1,5 @@
 {
-	"version": "20071530",
+	"version": "20071531",
 	"101": {
 		"code": "A1",
 		"name_jp": "はじめての「編成」！",
@@ -892,7 +892,7 @@
 	"234": {
 		"code": "",
 		"name_jp": "バレンタイン限定任務 【一号作戦】",
-		"name": "Valentine's Day Mission [Operation No.1].",
+		"name": "2102LQ1: Valentine's Day Mission [Operation No.1].",
 		"desc_jp": "バレンタイン限定任務：軽巡1隻及び駆逐艦2隻以上を含む艦隊で南西諸島防衛線、南西諸島近海、<br>バシー海峡及び東部オリョール海を哨戒！敵艦隊を捕捉撃破し、各海域の制海権確保に努めよ！",
 		"desc": "Use the fleet include one CL and two DD to get S rank? in the boss nodes of following maps: 1-4, 2-1, 2-2 and 2-3."
 	},
@@ -1648,9 +1648,9 @@
 	"348": {
 		"code": "",
 		"name_jp": "「精鋭軽巡」演習！",
-		"name": "Exercise, Elite Light Cruiser!",
+		"name": "C53: Exercise, Elite Light Cruiser!",
 		"desc_jp": "旗艦に軽巡級(雷巡を除く)、旗艦含む3隻以上の軽巡級と随伴駆逐艦2隻を配備した軽巡演習艦隊を<br>編成、同艦隊により本日中に演習で【A判定】以上の勝利を4回以上達成せよ！",
-		"desc": "Use the fleet include a CL class(except CLT), two other CL class and two DD as the companion ships to get four A rank in PvP in a day."
+		"desc": "Use the fleet with a CL class(except CLT) as flagship, two other CL class and two DD as the companion ships to get four A rank in PvP in a day."
 	},
 	"401": {
 		"code": "",
@@ -1921,7 +1921,7 @@
 	"442": {
 		"code": "",
 		"name_jp": "西方連絡作戦準備を実施せよ！",
-		"name": "Conduct preparations for liaison operations in the West!",
+		"name": "D38: Conduct preparations for liaison operations in the West!",
 		"desc_jp": "西方連絡作戦準備：「西方海域偵察作戦」「潜水艦派遣演習」「潜水艦派遣作戦」<br>及び「欧州方面友軍との接触」各遠征を実施、これを成功させよ！",
 		"desc": "Complete following expeditions: D1, 29, 30, D3"
 	},
@@ -2768,7 +2768,7 @@
 	"716":{
 		"code": "",
 		"name_jp": "「軽巡」級の改修工事を実施せよ！",
-		"name": "Carry out the renovation of the light cruiser class!",
+		"name": "G8: Carry out the renovation of the light cruiser class!",
 		"desc_jp": "軽巡近代化改修：鋼材800及びボーキサイト400を準備、任意の軽巡級を近代化改修！<br>[軽巡級]x3隻同時使用により2回成功させよ！※任務達成後、準備資源は消費します。",
 		"desc": "Prepare 800 steel and 400 bauxite, then modernize any light cruiser with 3 other light cruiser twice! "
 	},
@@ -3096,10 +3096,10 @@
 	},
 	"847": {
 		"code": "",
-		"name_jp": "春の準備任務：桃の節句準備を完遂せよ！",
-		"name": "SB22: Spring Preparation Mission: Carry out the Hina Matsuri Preparations!",
-		"desc_jp": "春の準備任務：艦隊を東部オリョール海に反復出撃、同方面敵艦隊を覆滅し、<br>同海域周辺の制海権を完全に確保、桃の節句を迎える準備を完遂せよ！",
-		"desc": "Score five S-rank victories against World 2-5 Boss."
+		"name_jp": "球磨型軽巡一番艦、出撃だクマ!",
+		"name": "B163: Kuma-class Light Cruiser name ship, beary eager to sortie!",
+		"desc_jp": "改装軽巡「球磨改二/球磨改二丁」旗艦の艦隊を、鎮守府近海航路、南西諸島バシー海峡、北方海域キス島沖、南西海域マラッカ海峡ペナン島沖深部へ展開！各方面の作戦を成功させよ！",
+		"desc": "Organize a fleet consists of Kuma Kai Ni/Kuma Kai Ni D as flagship and 5XX to S rank 2-2, 3-2, 7-3 (Part 2), and Reach Node N on 1-6"
 	},
 	"848": {
 		"code": "",
@@ -3720,7 +3720,7 @@
 	"936":{
 		"code": "",
 		"name_jp": "改装最新鋭軽巡「能代改二」、出撃せよ！",
-		"name": "The most advanced light cruiser, Noshiro Kai Ni, is now ready for battle!",
+		"name": "B164: The most advanced light cruiser, Noshiro Kai Ni, is now ready for battle!",
 		"desc_jp": "旗艦に「能代改二」、同指揮下に駆逐艦3隻以上を配備した艦隊で、沖ノ島海域、キス島沖、<br>サブ島沖海域、ブルネイ泊地沖、タウイタウイ泊地沖深部に出撃！敵艦隊を捕捉撃滅せよ！",
 		"desc": "Use the fleet that Noshiro kai2 as the flagship and three DD as the companion ships to get S rank? in the boss nodes of following maps: 2-4, 3-2, 5-3, 7-2-2."
 	}
