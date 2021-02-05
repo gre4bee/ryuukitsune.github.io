@@ -1,5 +1,5 @@
 {
-	"version": "20071529",
+	"version": "20071530",
 	"101": {
 		"code": "A1",
 		"name_jp": "はじめての「編成」！",
@@ -894,7 +894,7 @@
 		"name_jp": "バレンタイン限定任務 【一号作戦】",
 		"name": "Valentine's Day Mission [Operation No.1].",
 		"desc_jp": "バレンタイン限定任務：軽巡1隻及び駆逐艦2隻以上を含む艦隊で南西諸島防衛線、南西諸島近海、<br>バシー海峡及び東部オリョール海を哨戒！敵艦隊を捕捉撃破し、各海域の制海権確保に努めよ！",
-		"desc": "バレンタイン限定任務：軽巡1隻及び駆逐艦2隻以上を含む艦隊で南西諸島防衛線、南西諸島近海、<br>バシー海峡及び東部オリョール海を哨戒！敵艦隊を捕捉撃破し、各海域の制海権確保に努めよ！"
+		"desc": "Use the fleet include one CL and two DD to get S rank? in the boss nodes of following maps: 1-4, 2-1, 2-2 and 2-3."
 	},
 	"235": {
 		"code": "",
@@ -1650,7 +1650,7 @@
 		"name_jp": "「精鋭軽巡」演習！",
 		"name": "Exercise, Elite Light Cruiser!",
 		"desc_jp": "旗艦に軽巡級(雷巡を除く)、旗艦含む3隻以上の軽巡級と随伴駆逐艦2隻を配備した軽巡演習艦隊を<br>編成、同艦隊により本日中に演習で【A判定】以上の勝利を4回以上達成せよ！",
-		"desc": "旗艦に軽巡級(雷巡を除く)、旗艦含む3隻以上の軽巡級と随伴駆逐艦2隻を配備した軽巡演習艦隊を<br>編成、同艦隊により本日中に演習で【A判定】以上の勝利を4回以上達成せよ！"
+		"desc": "Use the fleet include a CL class(except CLT), two other CL class and two DD as the companion ships to get four A rank in PvP in a day."
 	},
 	"401": {
 		"code": "",
@@ -1923,7 +1923,7 @@
 		"name_jp": "西方連絡作戦準備を実施せよ！",
 		"name": "Conduct preparations for liaison operations in the West!",
 		"desc_jp": "西方連絡作戦準備：「西方海域偵察作戦」「潜水艦派遣演習」「潜水艦派遣作戦」<br>及び「欧州方面友軍との接触」各遠征を実施、これを成功させよ！",
-		"desc": "西方連絡作戦準備：「西方海域偵察作戦」「潜水艦派遣演習」「潜水艦派遣作戦」<br>及び「欧州方面友軍との接触」各遠征を実施、これを成功させよ！"
+		"desc": "Complete following expeditions: D1, 29, 30, D3"
 	},
 	"501": {
 		"code": "",
@@ -3722,6 +3722,6 @@
 		"name_jp": "改装最新鋭軽巡「能代改二」、出撃せよ！",
 		"name": "The most advanced light cruiser, Noshiro Kai Ni, is now ready for battle!",
 		"desc_jp": "旗艦に「能代改二」、同指揮下に駆逐艦3隻以上を配備した艦隊で、沖ノ島海域、キス島沖、<br>サブ島沖海域、ブルネイ泊地沖、タウイタウイ泊地沖深部に出撃！敵艦隊を捕捉撃滅せよ！",
-		"desc": "旗艦に「能代改二」、同指揮下に駆逐艦3隻以上を配備した艦隊で、沖ノ島海域、キス島沖、<br>サブ島沖海域、ブルネイ泊地沖、タウイタウイ泊地沖深部に出撃！敵艦隊を捕捉撃滅せよ！"
+		"desc": "Use the fleet that Noshiro kai2 as the flagship and three DD as the companion ships to get S rank? in the boss nodes of following maps: 2-4, 3-2, 5-3, 7-2-2."
 	}
 }
