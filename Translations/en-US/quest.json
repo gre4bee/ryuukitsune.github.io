@@ -1,5 +1,5 @@
 {
-	"version": "20071531",
+	"version": "20071532",
 	"101": {
 		"code": "A1",
 		"name_jp": "はじめての「編成」！",
@@ -2771,6 +2771,13 @@
 		"name": "G8: Carry out the renovation of the light cruiser class!",
 		"desc_jp": "軽巡近代化改修：鋼材800及びボーキサイト400を準備、任意の軽巡級を近代化改修！<br>[軽巡級]x3隻同時使用により2回成功させよ！※任務達成後、準備資源は消費します。",
 		"desc": "Prepare 800 steel and 400 bauxite, then modernize any light cruiser with 3 other light cruiser twice! "
+	},
+	"717":{
+		"code": "",
+		"name_jp": "続：「軽巡」級の改修工事を実施せよ！",
+		"name": "G9: Carry out the renovation of the light cruiser class, Second part !",
+		"desc_jp": "軽巡近代化改修：鋼材900及び弾薬900を準備して、任意の軽巡級を近代化改修！<br>[重巡級]x3隻同時使用により2回成功させよ！※任務達成後、準備資源は消費します。",
+		"desc": "Prepare 900 steel and 900 ammo, then modernize any light cruiser with 3 heavy cruiser twice! "
 	},
 	"801": {
 		"code": "",
